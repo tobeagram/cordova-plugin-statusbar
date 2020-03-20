@@ -99,7 +99,7 @@ exports.defineManualTests = function (contentEl, createActionButton) {
     }
 
     function doColor4() {
-        log('set style=dark');
+        log('set style=darkcontent');
         StatusBar.styleDarkContent();
     }
 
