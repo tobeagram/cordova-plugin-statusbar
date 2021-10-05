@@ -29,13 +29,11 @@ description: Control the device status bar.
 
 ## Installation
 
+This is a fork from the official Apache Cordova Cordova Plugin Statusbar. This adds `styleDarkContent` using the code from the open pull request, https://github.com/apache/cordova-plugin-statusbar/pull/181.
+
 This installation method requires cordova 5.0+
 
-    cordova plugin add cordova-plugin-statusbar
-
-It is also possible to install via repo url directly ( unstable )
-
-    cordova plugin add https://github.com/apache/cordova-plugin-statusbar.git
+    cordova plugin add https://github.com/tobeagram/cordova-plugin-statusbar
 
 
 Preferences
